@@ -108,6 +108,8 @@ export default () => {
         gallery_6: `SiteBuilder is een online webapplicatie waarmee gebruikers gemakkelijk websites kunnen maken en laten hosten. De ontwikkeling van SiteBuilder wordt gedaan door het bedrijf AppMachine BV. Dit bedrijf is onderdeel van Endurance International Group een beursgenoteerd bedrijf dat bedrijven alle mogelijkheden aanbiedt om online op de markt gezet te worden. 
         SiteBuilder heeft een klantenservice die gebruikt maak van een klantgegevens systeem om klanten te helpen als zij problemen hebben. Dit klantgegevens systeem was verouderd en moest herontwikkeld worden. 
         `,
+        gallery_7:
+          'De unieke smaak van Duits kwaliteitsbier en de gezelligheid die het met zich meebrengt, heeft de familie Blaes doen besluiten om zelf bieren te gaan brouwen volgens het eeuwenoude Duitse Reinheitsgebot. Bier, zoals zij het zélf willen drinken.',
         service1:
           'Het ontwikkelen van web applicaties met de nieuwste technieken en een gebruiksvriendelijke interface.',
         service2:

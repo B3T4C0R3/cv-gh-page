@@ -108,6 +108,7 @@ export default () => {
           'Boggle was a gamification project that allowed participants to play the word game Boggle against each other online. With this game you have to find as many words as possible in a 4x4 grid within three minutes. The participants could play in both Dutch and English.',
         gallery_6: `SiteBuilder is an online web application that allows users to easily create and host websites. The development of SiteBuilder is done by the company AppMachine BV. This company is part of Endurance International Group, a listed company that offers companies every opportunity to be marketed online.
         SiteBuilder has a customer service that uses a customer data system to help customers when they have problems. This customer data system was outdated and had to be redeveloped.`,
+        gallery_7: 'The unique taste of German quality beer and the conviviality that it brings, the Blaes family decided to brew their own beers according to the age-old German Reinheitsgebot. Beer, as they want to drink it themselves.',
         service1:
           'Developing web applications with the latest techniques and a user-friendly interface.',
         service2:
