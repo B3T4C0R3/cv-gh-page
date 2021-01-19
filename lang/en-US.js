@@ -98,17 +98,14 @@ export default () => {
           'Astrobit was a fintech crypto start-up. It simplified cryptocurrency transactions. The backend of this project used an algorithm that searched for the cheapest transaction costs on the blockchain of the relevant crypto currency. Which allowed the commission to remain relatively low.',
         gallery_2:
           "To optimize the sales process at IEX Media, a system was developed that allowed employees to easily select advertisements and other products for a customer's campaign. The selection is then automatically converted into a quotation and saved in the existing CRM tool. After accepting the quotation, the customer can supply the campaign materials and view statistics via the system. Due to a request for visualization of certain data from IEX, the system has been expanded with a role system. For example, editorial users could see analyzes of their publications and sales users could see the sales figures.",
-        gallery_3: `To contribute to the knowledge of the IEX Group development team and to be able to find a suitable front-end framework, an investigation has been done to find out which front-end frameworks are available. Based on data about the most popular front-end frameworks among developers, a selection was made. React, Vue and Angular were possibly suitable candidates.
-
-        Criteria have been drawn up based on the requirements and wishes of the client and the IEX Group development team. A prototype was also made for all three candidates and a benchmark test was performed on these prototypes. Based on the results of the prototypes, benchmark tests and the criteria, Vue proved to be the most suitable front-end framework. Using this framework, a full-stack prototype could then be developed for the EuroBolBel websites.
-        `,
+        gallery_3: 'To contribute to the knowledge of the IEX Group development team and to be able to find a suitable front-end framework, an investigation has been done to find out which front-end frameworks are available. Based on data about the most popular front-end frameworks among developers, a selection was made. React, Vue and Angular were possibly suitable candidates. Criteria have been drawn up based on the requirements and wishes of the client and the IEX Group development team. A prototype was also made for all three candidates and a benchmark test was performed on these prototypes. Based on the results of the prototypes, benchmark tests and the criteria, Vue proved to be the most suitable front-end framework. Using this framework, a full-stack prototype could then be developed for the EuroBolBel websites.',
         gallery_4:
           'Okeezy was a project with which developers could easily set up an authentication system, including a personalized interface, via a web application. This system contained all the necessities of a contemporary authentication system. For example, social login, 2-factor authentication and SMS verification could be used.',
         gallery_5:
           'Boggle was a gamification project that allowed participants to play the word game Boggle against each other online. With this game you have to find as many words as possible in a 4x4 grid within three minutes. The participants could play in both Dutch and English.',
-        gallery_6: `SiteBuilder is an online web application that allows users to easily create and host websites. The development of SiteBuilder is done by the company AppMachine BV. This company is part of Endurance International Group, a listed company that offers companies every opportunity to be marketed online.
-        SiteBuilder has a customer service that uses a customer data system to help customers when they have problems. This customer data system was outdated and had to be redeveloped.`,
-        gallery_7: 'The unique taste of German quality beer and the conviviality that it brings, the Blaes family decided to brew their own beers according to the age-old German Reinheitsgebot. Beer, as they want to drink it themselves.',
+        gallery_6: 'SiteBuilder is an online web application that allows users to easily create and host websites. The development of SiteBuilder is done by the company AppMachine BV. This company is part of Endurance International Group, a listed company that offers companies every opportunity to be marketed online. SiteBuilder has a customer service that uses a customer data system to help customers when they have problems. This customer data system was outdated and had to be redeveloped.',
+        gallery_7:
+          'The unique taste of German quality beer and the conviviality that it brings, the Blaes family decided to brew their own beers according to the age-old German Reinheitsgebot. Beer, as they want to drink it themselves.',
         service1:
           'Developing web applications with the latest techniques and a user-friendly interface.',
         service2:
@@ -120,7 +117,8 @@ export default () => {
         service5:
           'Researching user interaction on a web application resulting in advice that can improve the user experience.',
         error: 'Sorry, something went wrong',
-        success: 'Thank you for your message, i will respond as soon as possible'
+        success:
+          'Thank you for your message, i will respond as soon as possible'
       }
     })
   })
